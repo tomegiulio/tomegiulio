@@ -5,8 +5,8 @@
 
 - 📄 Know about my experiences [https://github.com/tomegiulio/epicodeFinalProject](https://github.com/tomegiulio/epicodeFinalProject)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
