@@ -3,8 +3,6 @@
 
 - email **mrtomegiulio@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/tomegiulio/epicodeFinalProject](https://github.com/tomegiulio/epicodeFinalProject)
-
 
 
 </p>
